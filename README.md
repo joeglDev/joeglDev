@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/joeglDev/<OWNER>/<OWNER>/readMeHeaderLinkedIn.png.png "Header")](https://www.linkedin.com/in/joe-gilbert-652092193/)
+Find me at: [<img alt="linked in profile image with link" width="30px" src="readMeHeaderLinkedIn.png.png" />](https://www.linkedin.com/in/joe-gilbert-652092193/)
 
 - 👋 Hi, I’m @joeglDev i'm a developing software developer based in Greater Manchester, UK.
 - 👀 I’m interested in front end web development frameworks and data visualisation.
