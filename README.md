@@ -3,8 +3,7 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
 - 👋 Hi, I’m @joeglDev i'm a developing software developer based in Greater Manchester, UK.
 - 👀 I’m interested in front end web development frameworks and data visualisation.
 - 🌱 I’m currently learning front end JavaScript frameworks such as vue and new languages such as Go.
-- // 💞️ I’m looking to collaborate on ...
-- // 📫 How to reach me ...
+
 
 <!---
 joeglDev/joeglDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
