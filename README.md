@@ -1,4 +1,4 @@
-Find me at: [<img alt="linked in profile image with link" width="30px" src="readMeHeaderLinkedIn.png.png" />](https://www.linkedin.com/in/joe-gilbert-652092193/)
+Find me at: [<img alt="linked in profile image with link" width="30px" src="readMeHeaderLinkedIn.png.png" />](https://www.linkedin.com/in/JoeGilbertDev)
 
 - 👋 Hi, I’m Joe (@joeglDev) i'm a developing software developer based in Greater Manchester, UK. 🏳️‍🌈 🏳️‍⚧️
 - 👀 I’m interested in Front End web development frameworks and data visualisation.
