@@ -2,7 +2,7 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
 
 - 👋 Hi, I’m Joe (@joeglDev) i'm a developing software developer based in Greater Manchester, UK. 🏳️‍🌈 🏳️‍⚧️
 - 👀 I’m interested in Front End web development frameworks and data visualisation.
-- 🌱 I’m currently working with Front End JavaScript frameworks such as Vue and new languages such as Go.
+- 🌱 I’m currently working with Front End JavaScript frameworks such as Vue and learning new skillsets in data science.
 
 
 <!---
