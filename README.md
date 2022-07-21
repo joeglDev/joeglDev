@@ -11,7 +11,7 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
   * Making web api weather app pretty.
   
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joegldev)](https://github.com/joegldev/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joegldev)]
 
 
 <!---
