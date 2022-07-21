@@ -10,8 +10,9 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
   * Object Generator Solar System game in Python.
   * Making web api weather app pretty.
   
+  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joegldev&layout=compact"/>
-
+</div>
 
 <!---
 joeglDev/joeglDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
