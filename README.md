@@ -10,8 +10,7 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
   * Object Generator Solar System game in Python.
   * Making web api weather app pretty.
   
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joegldev)]
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joegldev&layout=compact"/>
 
 
 <!---
