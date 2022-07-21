@@ -9,6 +9,9 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
   * Bioinformatics software displaying information using graphs in JavaScript D3.
   * Object Generator Solar System game in Python.
   * Making web api weather app pretty.
+  
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joegldev)](https://github.com/joegldev/github-readme-stats)
 
 
 <!---
