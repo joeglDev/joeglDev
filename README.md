@@ -5,8 +5,8 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
 - 🌱 I’m interested in Front End web development frameworks and data visualisation. To that end I’m currently working in a variety of modern languages such as Python, HTML/CSS and JavaScript. 
 - 📚 On my learning list are modern Front End JavaScript frameworks such as Vue/React and developing my skillsets in data science, use of git etc.
 - 💻 Current Projects
-  * Bioinformatics software displaying information using graphs in JavaScript D3.
-  * Object Generator Solar System game in Python.
+ * Tiny React app to enable users to organise their fictional characters.
+ * A express.js server which connects a Postgres database to a React front-end webpage. Hosted on Heroku: https://northcoders-backend-project-jg.herokuapp.com/api
   
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joegldev&layout=compact"/>
