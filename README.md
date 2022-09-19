@@ -1,12 +1,12 @@
 Find me at: [<img alt="linked in profile image with link" width="30px" src="readMeHeaderLinkedIn.png.png" />](https://www.linkedin.com/in/JoeGilbertDev)
 
-- 👋 Hi, I’m Joe (@joeglDev) 🏳️‍🌈 + 🏳️‍⚧️ Ally  and i'm based in Greater Manchester, UK (or remote + a train journey!). 
+- 👋 Hi, I’m Joe 🏳️‍🌈 + 🏳️‍⚧️ Ally and I'm based in Greater Manchester, UK (or remote + a train journey!). 
 - 🔬 I developed an interest in software development from my time in academic research and later in clinical diagnostics.
-- 🌱 I’m interested in Front End web development frameworks and data visualisation. To that end I’m currently working in a variety of modern languages such as Python, HTML/CSS and JavaScript. 
-- 📚 On my learning list are modern Front End JavaScript frameworks such as Vue/React and developing my skillsets in data science, use of git etc.
-- 💻 Current Projects
- * Tiny React app to enable users to organise their fictional characters.
- * A express.js server which connects a Postgres database to a React front-end webpage. Hosted on Heroku: https://northcoders-backend-project-jg.herokuapp.com/api
+- 🌱 I’m interested in full-stack web applications and data visualisation. To that end I’m currently working with a variety of modern web development tools such as Node.js, SQL, TypeScript, React.js and Vue.js.
+- 📚 I have just finished a 3 month intensive web development bootcamp with Northcoders. I am now keeping busy by contributing to personal and team projects and applying to exciting new opportunities.
+- 💻 Current Projects: 
+  * Tiny React app to enable users to organise their fictional characters using TypeScript and noSQL: https://github.com/joeglDev/WIP-Tete-a-tete
+  * A topic driven messaging service utilising Vue.js and sockets.io: https://github.com/joeglDev/WIP-Tete-a-tete
   
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joegldev&layout=compact"/>
