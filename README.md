@@ -1,6 +1,6 @@
 Find me at: [<img alt="linked in profile image with link" width="30px" src="readMeHeaderLinkedIn.png.png" />](https://www.linkedin.com/in/JoeGilbertDev)
 
-- 👋 Hi, I’m Joe 🏳️‍🌈 + 🏳️‍⚧️ Ally and I'm based in Greater Manchester, UK. I am open to work locally, remotely, hybrid or move across the UK.
+- 👋 Hi, I’m Joe 🏳️‍🌈 + 🏳️‍⚧️ Ally and I'm based in Greater Manchester, UK. I am open to work flexible or from the office in all parts of the UK.
 - 🔬 I developed an interest in software development from gaining exposure to creating software at my previous workplace.
 - 🌱 I’m interested in full-stack web applications and data visualisation. To that end I’m currently working with a variety of modern web development tools such as Node.js, SQL, TypeScript, React.js and jQuery.
 - 📚 I have just finished a 3 month intensive web development bootcamp with Northcoders. I am now keeping busy by contributing to personal and team projects and applying to exciting new opportunities.
