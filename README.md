@@ -9,7 +9,7 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
  * React with Redux Dashboard to display weather information to a user using graphing libraries. : https://github.com/joeglDev/redux-weather-app
  * Text based video game in C# : https://github.com/joeglDev/space-colonisation-sim
 - ✅ Finished (within reason) Projects:
- * Portfolio website for myself build in Vue with TypeScript : https://github.com/joeglDev/Developer-Portfolio-Joe-Gilbert
+ * Portfolio website for myself build in Vue with TypeScript : https://joegilbertdeveloper.netlify.app/
  * News website using Node.js, Express.js and React.js to provide a dynamic user experience: https://github.com/joeglDev/nc-news
   
   <div align="center">
