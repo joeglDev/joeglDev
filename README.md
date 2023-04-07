@@ -1,16 +1,12 @@
 Find me at: [<img alt="linked in profile image with link" width="30px" src="readMeHeaderLinkedIn.png.png" />](https://www.linkedin.com/in/JoeGilbertDev)
 
-- 👋 Hi, I’m Joe 🏳️‍🌈 + 🏳️‍⚧️ Ally and I'm available to work in person or remotely across the UK. I'm a React Developer focussing on creating quality-driven applications. 
+- 👋 Hi, I’m Joe 🏳️‍🌈 + 🏳️‍⚧️ Ally and I'm a React Developer focussing on creating quality-driven applications. Currently based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿; I often work in hybrid environments both from home and from offices throughout the United Kingdom.
 - 🔬 I developed an interest in software development from my time in academic research and later in clinical diagnostics.
-- 🌱 I’m interested in full-stack web applications. To that end I’m currently working with a variety of modern web development tools such as Node.js, SQL, TypeScript and React.js.
-- 📚 Currently, I am spending some time to become familiar with new technologies such as TypeScript, C# and React Redux.
-- 💻 Current Projects: 
- * Single Page React App to enable users to organise their fictional characters using TypeScript and mongoDB : https://github.com/joeglDev/WIP-Character-portfolio
- * React with Redux Dashboard to display weather information to a user using graphing libraries. : https://github.com/joeglDev/redux-weather-app
- * Text based video game in C# : https://github.com/joeglDev/space-colonisation-sim
-- ✅ Finished (within reason) Projects:
- * Portfolio website for myself build in Vue with TypeScript : https://joegilbertdeveloper.netlify.app/
- * News website using Node.js, Express.js and React.js to provide a dynamic user experience: https://github.com/joeglDev/nc-news
+- 🌱 I’m interested in making testable, maintainable and accessibility driven dynamic web apps.
+- 📚 Currently, I am spending time to become more familiar with ideas such as cyber security, styled components and best-in-class web accessibility.
+- 💻 Personal projects: 
+1. [Personal portfolio website:](https://joegilbertdeveloper.netlify.app)
+2. For a full list of my public personal project please see my [github account:](https://github.com/joeglDev)
   
   <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joegldev&layout=compact"/>
