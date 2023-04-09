@@ -1,6 +1,6 @@
 Find me at: [<img alt="linked in profile image with link" width="30px" src="readMeHeaderLinkedIn.png.png" />](https://www.linkedin.com/in/JoeGilbertDev)
 
-- 👋 Hi, I’m Joe 🏳️‍🌈 + 🏳️‍⚧️ Ally and I'm a React Developer focussing on creating quality-driven applications. Currently based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿; I often work in hybrid environments both from home and from offices throughout the United Kingdom.
+- 👋 Hi, I’m Joe 🏳️‍🌈 + 🏳️‍⚧️ Ally and I'm a React Developer focusing on creating quality-driven applications. Currently based in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿; I often work in hybrid environments both from home and from offices throughout the United Kingdom.
 - 🔬 I developed an interest in software development from my time in academic research and later in clinical diagnostics.
 - 🌱 I’m interested in making testable, maintainable and accessibility driven dynamic web apps.
 - 📚 Currently, I am spending time to become more familiar with ideas such as cyber security, styled components and best-in-class web accessibility.
