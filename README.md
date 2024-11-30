@@ -2,7 +2,7 @@ Find me at: [<img alt="linked in profile image with link" width="30px" src="read
 
 - 👋 Hi, I’m Joe a Full-Stack Developer + Linux fan focusing on creating quality-driven applications. I've worked in hybrid environments from home and from offices throughout the United Kingdom.
 - 🔬 I developed an interest in software development from my time in academic research and later in clinical diagnostics.
-- 🌱 I’m interested in modern UIs, web accessibility and machine learning systems. 
+- 🌱 I’m interested inweb accessibility and how generative "AI" systems can provide alternative ways to interact with computers. 
 - ⚙️ React, TypeScript, JavaScript, Node, Python, Azure Databricks, Langchain, Langsmith, Ollama, ASP.NET
 - 💻 Personal projects: 
 For a full list of my public personal project please see my github account: https://github.com/joeglDev
